@@ -29,7 +29,7 @@ function binarySearch(Array $arr, $x)
     // If we reach here element x doesnt exist
     return false;
 }
-  
+
 // Driver code
 $arr = array(1, 2, 3, 4, 5);
 $value = 5;
